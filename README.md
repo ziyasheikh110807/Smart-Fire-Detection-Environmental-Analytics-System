@@ -6,7 +6,7 @@
 ### 🛠️ Hardware Prototype Layout
 Physical component configuration featuring the Arduino Giga R1 WiFi architecture, an embedded single-bus DHT11 atmospheric sensor, and an infrared flame sensor integrated with a prototyping breadboard matrix.
 
-![Physical Hardware System Layout](Screenshot%202026-05-22%20at%201.38.23%20PM.jpg)
+![Physical Hardware System Layout](Screenshot%202026-05-22%20at%201.38.23%20PM.png)
 
 ### ☁️ Cloud Telemetry & Analytics Dashboard
 Real-time environmental monitoring interface hosted via ThingSpeak IoT Analytics. The multi-field telemetry pipeline tracks simultaneous data streams for ambient temperature spikes, humidity fluctuations, and discrete infrared flame hazard detections.
